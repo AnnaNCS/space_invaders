@@ -1,6 +1,6 @@
-One of my java projects: the game "Space Invaders" 
+Fundamentals of Computer Science Java project, Spring 2019: the game "Space Invaders" 
 
-To run the game: 
+Clone the repository and run the game with the following command: 
 ```
 java SpaceInvaders
 ```
